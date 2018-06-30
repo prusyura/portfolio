@@ -30,7 +30,7 @@ header{
 #foto{
 	max-width: 100vw;
 	height: 14.81vh;
-	background-image: url(/portfolio/foto/foto.jpg);
+	background-image: url(/portfolio/foto/foto.png);
 	background-repeat: no-repeat;
 	
 }
@@ -128,7 +128,7 @@ nav li{
 	justify-content: space-between;
 }
 #cont #about .foto_about{
-	background-image: url(D:/portfolio/foto/foto_about.jpg);
+	background-image: url(D:/portfolio/foto/foto_about.png);
 	background-repeat: no-repeat;
 	width: 18.75vw;
 	height: 41.2vh;
