@@ -94,12 +94,57 @@ nav li{
 #cont{
 	padding-left: 8.33vw;
 	width: 91.66vw;
-	max-height: 100%;
+	height: 96vh;
 	background-color: #f7f7f7;
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
 	align-items: center;
+
+}
+#cont #resum{
+	width: 59.37vw;
+	height: 20.37vh;
+	background-color: #ffffff;
+	text-transform: uppercase;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#cont #resum h1{
+	margin-top: 130px;
+	font-size: 17px;
+	margin-bottom: 0;
+}
+#cont #resum h2{
+	margin-top: 10px;
+	font-size: 12px;
+	color: #a8a8a8;
+}
+#cont #resum_text{
+	display: flex;
+	justify-content: space-around;
+	width: 59.37vw;
+	height: 20.37vh;
+	margin-top: 5vh
+
+}
+#cont #resum_text #text{
+	width: 29.6vw;
+	background-color: #ffffff
+
+}
+#cont #resum_text #text #text_about h3{
+	text-transform: uppercase;
+	font-size: 17px;
+	text-align: center;
+	border-bottom: 2px solid #f7f7f7 ;
+}
+#cont #resum_text #text #text_detal b{
+	text-transform: uppercase;
+}
+#cont #resum_text #text #text_detal{
+	margin: 10px;
+	text-align: center;
 }
 
 /*footer*/
