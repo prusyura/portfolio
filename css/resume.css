@@ -43,13 +43,13 @@ header{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-size: 2vh;
+	font-size: 1.5vh;
 }
 #main_nav a{
 	text-decoration: none;
 	color: #f6f6f6;
 	text-transform: uppercase;
-	font-size: 0.62vmax;
+	font-size: 1.2vh;
 	line-height: 1.66vmax;
 	height: 5.2vmax;
 	max-width: 100vw;
